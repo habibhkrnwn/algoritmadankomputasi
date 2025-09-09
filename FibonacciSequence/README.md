@@ -21,3 +21,27 @@ The GUI is built with MATLAB `figure` and `uicontrol` components for interactive
 1. Run the application by executing:
    ```matlab
    fibonacciseq
+   ```
+2. Enter the following in the input fields:
+   - First number (e.g., `0`)
+   - Second number (e.g., `1`)
+   - Sequence length (e.g., `10`)
+3. Press the **Generate** button.  
+   - The Fibonacci sequence will appear in the output box.  
+4. If the input is invalid, an error message will be displayed.
+
+---
+
+## 🖼 Preview
+### Flowchart
+![Flowchart](fibonacci_flowchart.pdf)
+
+### GUI Example
+![Preview GUI](preview_fibonacci.png)
+
+---
+
+## 📅 Author
+- **Habib Hammam Kurniawan**  
+Class: Algoritma dan Komputasi  
+Teacher: Muhammad Qomaruz Zaman, S.T., M.T., Ph.D.
