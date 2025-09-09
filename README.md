@@ -33,8 +33,6 @@ Beberapa tugas yang sudah dikerjakan dalam repositori ini antara lain:
 ## 👨‍🏫 Pengampu
 Mata kuliah ini diampu oleh:  
 **Muhammad Qomaruz Zaman, S.T., M.T., Ph.D.**  
-Magister Teknik Elektro – Bidang Elektronika, ITS  
-
 ---
 
 ## 📅 Penulis
@@ -46,4 +44,4 @@ Mahasiswa Magister Teknik Elektro – Bidang Elektronika, ITS
 ## 🔗 Dokumentasi Terkait
 - 📄 Laporan tugas masing-masing ada pada folder terkait.  
 - 📂 Source code tersedia di setiap subfolder proyek.  
-- *(Opsional: Tambahkan link YouTube/GitHub Pages jika ada demo visual).*  
+
