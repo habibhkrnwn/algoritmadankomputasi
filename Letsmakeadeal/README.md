@@ -1,7 +1,7 @@
 # Let's Make a Deal (Monty Hall Simulator)
 
 ## 📌 Project Title
-Monty Hall Simulator with MATLAB (Multi-Door Variant)
+Lets Make a Deal with MATLAB (Multi-Door Variant)
 
 ## 📖 Project Description
 This project implements a **Monty Hall problem simulator** (also known as *Let's Make a Deal*) using MATLAB.  
@@ -48,11 +48,11 @@ Theoretical probabilities:
 
 ## 🖼 Preview
 ### Flowchart
-![Flowchart](flowchart_montyhall.pdf)
+![Flowchart](Flowchart.pdf)
 
 ### Simulation Plot Example
 *(Optional: Insert a screenshot of your MATLAB figure output here if available)*  
-![Plot Screenshot](preview_montyhall.png)
+![Plot Screenshot](plot.png)
 
 ---
 
