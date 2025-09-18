@@ -1,6 +1,6 @@
 function letsmakeadeal(min_doors, max_doors, trials)
 % Lets Make a Deal (N pintu)
-% Pemakaian (opsional): lets make a deal(3, 15, 5e4)
+% Pemakaian (opsional): lets make a de(3, 15, 5e4)
 
     % ---------- Parameter default ----------
     if nargin < 1, min_doors = 3;   end
