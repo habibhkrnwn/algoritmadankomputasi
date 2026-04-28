@@ -1,0 +1,3 @@
+Scenario,Packets Received,Expected Packets,Estimated Packet Loss,Mean Processing Time (ms),Median Processing Time (ms),Min Processing Time (ms),Max Processing Time (ms),Total Processing Time (ms),Mean Packet Interval (ms),Total ESP Elapsed Time (ms)
+A - Cloud/Server-Side Filtering,600,600,0,9.085255843329682,1.0968860001412395,0.7310269998015428,320.0361949998296,5451.153505997809,49.921692512270205,30000.0
+B - Edge/Client-Side Filtering,600,600,0,24.48443336,24.489,24.283001,24.673,14690.660016,49.82494750683614,30000.0
